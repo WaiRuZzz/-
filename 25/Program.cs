@@ -1,5 +1,4 @@
-﻿
-Console.WriteLine("введите два числа: ");
+﻿Console.WriteLine("введите два числа: ");
 int num = Convert.ToInt32(Console.ReadLine());
 int num2 = Convert.ToInt32(Console.ReadLine());
 
